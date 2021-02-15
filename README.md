@@ -7,4 +7,5 @@ For a successful launch of the application the file "input.txt" with the correct
 Output is displayed in "output.txt" file and duplicated in the console.
 
 To run the application enter in console     javac ToolApp.java
+
 Then enter    java ToolApp
